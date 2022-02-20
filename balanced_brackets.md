@@ -14,7 +14,7 @@ public bool IsBalanced(string value)
 Given a string ``value``, the method must return true or false depending on whether the brackets balance.
 
 
-Brackets are these 8 characters: ``() {} [] ()`` and by "balanced" we mean "correctly closed". Think of a parameterised method call: the opening paranthesis ``(`` must have a matching closing character ``)``; any interpolated brackets must be closed off before the "outer" brackets are closed, in other words they don't cross over.
+Brackets are these 6 characters: ``() {} []`` and by "balanced" we mean "correctly closed". Think of a parameterised method call: the opening paranthesis ``(`` must have a matching closing character ``)``; any interpolated brackets must be closed off before the "outer" brackets are closed, in other words they don't cross over.
 
 ---
 
