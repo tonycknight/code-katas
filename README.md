@@ -1,5 +1,6 @@
-
 # Code Katas
+
+A curated list of code katas from a variety of sources.
 
 [Addends](addends.md)
 

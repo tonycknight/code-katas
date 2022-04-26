@@ -81,3 +81,7 @@ If you need to pause to collect your thoughts, *please say so*.
 * What is the best way to verify your tests are correct?
 
 * Speed! What are the bottlenecks?
+
+## Thanks
+
+***Many thanks to @robcthegeek!***

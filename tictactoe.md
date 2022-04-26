@@ -107,3 +107,7 @@ If you need to pause to collect your thoughts, *please say so*.
 * Speed! What are the bottlenecks?
 
 * If you could refactor the signatures, how would you do so and why? 
+
+## Thanks
+
+***Many thanks to @robcthegeek!***

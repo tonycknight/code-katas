@@ -2,9 +2,6 @@
 
 ## About this Kata ##
 
-_This problem was inspired via [Daily Coding Problem](https://www.dailycodingproblem.com/)._
-
-
 We want you to write a method that, given an input of a collection of positive integers (``values`` and a number ``k``) return whether any **two** numbers from the list add up to ``k``.
 
 
@@ -46,3 +43,9 @@ In additional:
 
 * After you've proven functional correctness, how would you ensure no worse than ``O(n)`` time complexity and ``O(n)`` resource complexity? 
 
+
+## Thanks
+
+_This problem was inspired via [Daily Coding Problem](https://www.dailycodingproblem.com/)._
+
+***Many thanks to @robcthegeek!***
