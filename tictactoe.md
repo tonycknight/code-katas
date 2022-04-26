@@ -110,4 +110,4 @@ If you need to pause to collect your thoughts, *please say so*.
 
 ## Thanks
 
-***Many thanks to @robcthegeek!***
+***Many thanks to [@robcthegeek](https://github.com/robcthegeek)***

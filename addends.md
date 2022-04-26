@@ -48,4 +48,4 @@ In additional:
 
 _This problem was inspired via [Daily Coding Problem](https://www.dailycodingproblem.com/)._
 
-***Many thanks to @robcthegeek!***
+***Many thanks to [@robcthegeek](https://github.com/robcthegeek)***
