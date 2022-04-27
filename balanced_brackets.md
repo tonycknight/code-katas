@@ -26,6 +26,7 @@ Brackets are these 6 characters: ``() {} []`` and by "balanced" we mean "correct
 - { } { }
 - [ { ( ) } ]
 - [ ( ) ( ) ]
+- [()(())]
 
 ``False``:
 
