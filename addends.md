@@ -27,7 +27,7 @@ result := false
 ```
 
 
-In additional:
+In addition:
 
 * ``values`` can contain zero or more items.
 * ``values`` can have repeated numbers of the same value.
