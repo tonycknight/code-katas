@@ -11,3 +11,5 @@ A curated list of code katas from a variety of sources.
 [Tic tac toe](tictactoe.md)
 
 [Random Sequence](random-sequence.md)
+
+[Unique Random Values](unique-random-values.md)

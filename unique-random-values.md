@@ -1,11 +1,11 @@
-# Random Sequence
+# Unique Random Values
 
 ## About this kata
 
-We want you to write a class whose single method will give an infinite sequence of random numbers:
+We want you to write a class whose single method will give a sequence of unique random numbers:
 
 ```csharp
-public IEnumerable<int> GetRandomValues()
+public IEnumerable<int> GetUniqueRandomValues()
 {
   // implementation goes here
 }
@@ -15,7 +15,7 @@ public IEnumerable<int> GetRandomValues()
 ### What you can do, and what you must have:
 
 - The method *must* match the above signature
-- The method *must* provide random numbers
+- The method *must* provide unique random numbers
 - You *must* have tests covering *all* aspects of your code
 
 ## We need unit tests!
@@ -30,5 +30,5 @@ We're hot on test driven development, in the pure style, and that means test fir
 
 * How would you test with the minimum number of tests and test cases?
 
-* After you've proven functional correctness, how would you achieve best performance? What trade-offs will you need?
+* After you've proven functional correctness, how would you achieve best performance? What trade-offs will you need? What is the lowest possible time complexity, the lowest possible resource usage?
 
