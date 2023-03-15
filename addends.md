@@ -12,7 +12,7 @@ values = [10, 15, 3, 7]
 
 k = 17
 
-result := true
+result is true
 
 ```
 
@@ -22,7 +22,7 @@ values = [3, 7, 100]
 
 k = 20
 
-result := false
+result is false
 
 ```
 
