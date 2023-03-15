@@ -36,7 +36,7 @@ Examples:
 - 42 => DDDDII
 
 
-### Part 2 - Nuemrals string to integer
+### Part 2 - Numerals string to integer
 
 We want you to write a method - the class doesn't matter - that has this signature:
 
@@ -47,7 +47,7 @@ public int FromRoman(string value)
 }
 ```
 
-Given a string ``value`` produce an integerrepresentation.
+Given a string ``value`` produce the decimal form of the Roman numeral.
 
 Ensure:
 - ``value`` is a valid number in Roman numeral form
@@ -60,15 +60,15 @@ We're hot on test driven development, in the pure style, and that means test fir
 
 ---
 
-## Pairing up, communications and all that stuff
+## Pairing up, communications and all that
 
 You'll be sharing your screen with someone else, and they will be assessing *everything.*
 
-As you go through the kata, don't isolate yourself. Talk, and talk a lot. We want to hear your thinking. 
+As you go through the kata, don't isolate yourself. Talk, and talk a lot: we want to hear your thinking. 
 
 So if you've got a problem in year head, *talk out loud* (don't worry, we do not record!)
 
-If you need to pause to collect your thoughts, *please say so*. 
+If you need to pause to collect your thoughts, *please just say so*. 
 
 ---
 
