@@ -14,7 +14,7 @@ public bool IsBalanced(string value)
 Given a string ``value``, the method must return true or false depending on whether the brackets balance.
 
 
-Brackets are these 6 characters: ``() {} []`` and by "balanced" we mean "correctly closed". Think of a parameterised method call: the opening paranthesis ``(`` must have a matching closing character ``)``; any interpolated brackets must be closed off before the "outer" brackets are closed, in other words they don't cross over.
+Brackets are these 6 characters: ``() {} []`` and by "balanced" we mean "correctly closed". Think of a parameterised method call: the opening paranthesis ``(`` must have a matching closing character ``)``; any interpolated brackets must be closed off before the "outer" brackets are closed. 
 
 ---
 
@@ -54,11 +54,11 @@ We're hot on test driven development, in the pure style, and that means test fir
 
 You'll be sharing your screen with someone else, and they will be assessing *everything.*
 
-As you go through the kata, don't isolate yourself. Talk, and talk a lot. We want to hear your thinking. 
+As you go through the kata, don't isolate yourself. Talk, and talk a lot: we want to hear your thinking. 
 
 So if you've got a problem in year head, *talk out loud* (don't worry, we do not record!)
 
-If you need to pause to collect your thoughts, *please say so*. 
+If you need to pause to collect your thoughts, *please just say so*. 
 
 ---
 
