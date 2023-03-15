@@ -6,7 +6,7 @@ We would like you to write a class to keep track and score a game of [Noughts an
 
 We want you to write a class named ``TicTacToeBoard`` that represents and verifies the current state of the board. Moving and scoring is encapsulated within this class.
 
-```
+```csharp
 public enum GamePlayer
 {
     Noughts,
@@ -31,7 +31,7 @@ public class TicTacToeBoard
 
 We first need a method to make a move:
 
-```
+```csharp
 public void Move(Position pos, GamePlayer player)
 {
   // TODO:
@@ -48,7 +48,7 @@ public void Move(Position pos, GamePlayer player)
 
 We need a method to determine if the game can be continued, i.e. if the board is full:
 
-```
+```csharp
 public bool IsTerminated()
 {
   // TODO: 
@@ -64,7 +64,7 @@ public bool IsTerminated()
 
 Lastly, we also need a method to verify the board state
 
-```
+```csharp
 public GamePlayer? IsPlayerWin() 
 {
   // TODO:

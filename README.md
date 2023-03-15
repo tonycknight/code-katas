@@ -9,3 +9,5 @@ A curated list of code katas from a variety of sources.
 [Roman Numerals](roman_numerals.md)
 
 [Tic tac toe](tictactoe.md)
+
+[Random Sequence](random-sequence.md)

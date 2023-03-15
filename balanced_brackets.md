@@ -4,10 +4,10 @@
 
 We need you to write a C# method - the class doesn't matter - that has this signature:
 
-```
+```csharp
 public bool IsBalanced(string value)
 {
- // 
+ // implementation goes here
 }
 ```
 
