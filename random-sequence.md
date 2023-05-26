@@ -14,6 +14,7 @@ public IEnumerable<int> GetRandomValues()
 
 ### What you can do, and what you must have:
 
+- Pay close attention to the method signature, and what it entails
 - The method *must* match the above signature
 - The method *must* provide random numbers
 - You *must* have tests covering *all* aspects of your code
