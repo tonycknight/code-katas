@@ -48,6 +48,10 @@ Ignore them: they don't count towards bracket balancing. If ``value`` doesn't ha
 
 We're hot on test driven development, in the pure style, and that means test first and test often. Remember your early tutorials on TDD? That's what we practice.
 
+## No cheating!
+
+That means no ChatGPT nor Github Copilot!
+
 ---
 
 ## Pairing up, communications and all that stuff
